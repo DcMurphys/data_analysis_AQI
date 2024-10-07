@@ -2,10 +2,10 @@
 
 ## Setup Environment - Shell/Terminal (Installing Dependencies)
 ```
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 ```
 
 ## Run streamlit app
 ```
-streamlit run dashboard.py
+py -m streamlit run dashboard.py
 ```
