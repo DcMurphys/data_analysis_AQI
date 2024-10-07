@@ -2,7 +2,7 @@
 
 ## Setup Environment - Shell/Terminal (Installing Dependencies)
 ```
-py -m pip install -r requirements.txt
+py -m pip install -r /data_analysis_AQI_submission/requirements.txt
 ```
 
 ## Run streamlit app
